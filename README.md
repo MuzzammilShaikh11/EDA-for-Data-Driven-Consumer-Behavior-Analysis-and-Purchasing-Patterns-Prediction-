@@ -1,14 +1,32 @@
-# Exploratory Data Analysis
+EDA for Data-Driven Consumer Behavior Analysis and Purchasing Patterns Prediction
 
-This project performs exploratory data analysis on festival sales data.
+Overview
 
-## Technologies
+This project performs Exploratory Data Analysis (EDA) on consumer purchasing data to identify trends, patterns, and insights that can support data-driven decision making.
+
+Technologies Used
+
 - Python
+- Google Colab
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 
-## Files
-- Exploratory_Data_Analysis.ipynb
-- Festival_Sales_Data.csv
+Features
 
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Data visualization
+- Consumer behavior insights
+
+How to Run
+
+1. Clone the repository.
+2. Open the notebook in Google Colab or Jupyter Notebook.
+3. Install the required Python libraries.
+4. Run the notebook cells sequentially.
+
+Author
+
+Muzzammil Md Rafique Shaikh
